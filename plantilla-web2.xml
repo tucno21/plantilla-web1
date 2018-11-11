@@ -1416,7 +1416,7 @@ div#topnav h2 {
       }
       .blog-content .post {
         position: relative;
-        background-color: #fff;
+        background-color: #fafbfd;
         margin-bottom: 10px;
       }
       .blog-content .post:after {
