@@ -310,7 +310,7 @@ Version:  Free Version
         -ms-transition: all 0.3s ease;
         -o-transition: all 0.3s ease;
         transition: all 0.3s ease;
-  background: #000 url(&quot;http://4.bp.blogspot.com/-u8ZOp2KyBdo/VWcsFN545bI/AAAAAAAAFbY/fptXy6fX66k/s1600/header-top.png&quot;) repeat-x top center;
+  background: #3e2e16 url(&quot;http://4.bp.blogspot.com/-u8ZOp2KyBdo/VWcsFN545bI/AAAAAAAAFbY/fptXy6fX66k/s1600/header-top.png&quot;) repeat-x top center;
       }
       .container {
         width: 1170px;
