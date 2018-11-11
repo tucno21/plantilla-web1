@@ -921,7 +921,7 @@ div#topnav h2 {
         padding: 0;
         overflow-x: hidden;
         overflow-y: auto;
-        background-color: #f7f9f9;
+        background-color: #14145a;
         -webkit-box-shadow: 0 100px 0 0 #f7f9f9;
         -moz-box-shadow: 0 100px 0 0 #f7f9f9;
         box-shadow: 0 100px 0 0 #f7f9f9;
@@ -958,7 +958,7 @@ div#topnav h2 {
         min-height: 100%;
         top: 0;
         left: 0;
-        background-color: #ffd700;
+        background-color: #14145a;
         -webkit-transform: translateX(-100%);
         -moz-transform: translateX(-100%);
         -ms-transform: translateX(-100%);
@@ -966,7 +966,7 @@ div#topnav h2 {
         transform: translateX(-100%);
       }
       .navlist.off-canvas li .sub-menu li a {
-        border-bottom: 1px solid #eee;
+        border-bottom: 1px solid #fff;
       }
       .navlist.off-canvas li .sub-menu.sub-menu-active {
         -webkit-transform: translateX(0);
