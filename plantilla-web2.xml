@@ -694,7 +694,7 @@ div#topnav h2 {
   display: inline-block;
   font-family: &quot;Montserrat&quot;, sans-serif;
   font-size: 10px;
-  color: #333;
+  color: #000;
   text-transform: uppercase;
   line-height: 45px;
 }
