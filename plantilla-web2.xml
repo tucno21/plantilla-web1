@@ -3727,14 +3727,9 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
             </div>
 
          <div class='share-box'>
-<a class='social-facebook' href='#' target='_blank'><i class='fa fa-facebook'/></a>
-<a class='social-twitter' href='#' target='_blank'><i class='fa fa-twitter'/></a>
-<a class='social-gplus' href='#' target='_blank'><i class='fa fa-google-plus'/></a>
-<a class='social-linkedin' href='#' target='_blank'><i class='fa fa-linkedin'/></a>
-<a class='social-pinterest' href='#' target='_blank'><i class='fa fa-pinterest'/></a>
-<a class='social-youtube' href='#' target='_blank'><i class='fa fa-youtube'/></a>
-<a class='social-vimeo' href='#' target='_blank'><i class='fa fa-vimeo-square'/></a>
-<a class='social-instagram' href='#' target='_blank'><i class='fa fa-instagram'/></a>
+<a class='social-facebook' href='https://www.facebook.com/groups/P9LiteLatam/' target='_blank'><i class='fa fa-facebook'/></a>
+<a class='social-youtube' href='https://www.youtube.com/channel/UCIjn2CjwZRjWop97FPVTNrg/videos' target='_blank'><i class='fa fa-youtube'/></a>
+<a class='social-telegram' href='https://t.me/joinchat/ERAhfUOxWB28VTX3rVpl_A' target='_blank'><i class='fa fa-telegram'/></a>
 </div>
 
           </div>
