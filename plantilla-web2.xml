@@ -503,7 +503,7 @@ Version:  Free Version
         content: &quot; &quot;;
       }
 
-      /* Preloader
+      /* Preloader---Precargador
       ----------------------------------------------- */
       #preloader {
         position: fixed;
@@ -574,7 +574,7 @@ Version:  Free Version
         }
       }
 
-      /* Header
+      /* Header-----Encabezamiento
       ----------------------------------------------- */
 .needo {
   height: 58px;
@@ -1904,7 +1904,7 @@ div#topnav h2 {
         display: none;
       }
 
-      /* Sidebar
+      /* Sidebar-Barra lateral
       ----------------------------------------------- */
       .sidebar {
         margin-top: 50px;
@@ -2021,7 +2021,7 @@ div#topnav h2 {
         color: #FFF;
       }
 
-      /* Footer
+      /* Footer--Pie de página
       ----------------------------------------------- */
       #footer {
           background-color: #fff;
@@ -2250,7 +2250,7 @@ color: #aaa;
           }
 
 
-      /* Posts and Pages
+      /* Posts and Pages--Mensajes y Páginas
       ----------------------------------------------- */
 
       .item .post, .static_page .post {
