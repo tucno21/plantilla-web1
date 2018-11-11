@@ -4103,25 +4103,7 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
 
                     </b:includable>
                     <b:includable id='about-author'>
-                      <div class='about-author'>
-                        <div class='image-thumb fl'>
-                          <script src='/feeds/posts/default?alt=json-in-script&amp;callback=authorshow'/>
-                        </div>
-                        <div class='author-info'>
-                          <div class='author-name'>
-                            <h4 class='text-uppercase'><data:post.author/></h4>
-                          </div>
-                          <div class='author-content'>
-                            <p>Phasellus facilisis convallis metus, ut imperdiet augue auctor nec. Duis at velit id augue lobortis porta. Sed varius, enim accumsan aliquam tincidunt, tortor urna vulputate quam, eget finibus urna est in augue.</p>
-                          </div>
-                          <div class='author-social'>
-                            <a href='#'><i class='fa fa-facebook'/></a>
-                            <a href='#'><i class='fa fa-twitter'/></a>
-                            <a href='#'><i class='fa fa-dribbble'/></a>
-                            <a href='#'><i class='fa fa-google-plus'/></a>
-                          </div>
-                        </div>
-                      </div>
+
                     </b:includable>
                     <b:includable id='backlinkDeleteIcon' var='backlink'>
                       <span expr:class='&quot;item-control &quot; + data:backlink.adminClass'>
