@@ -3742,7 +3742,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
           <!-- LOGO -->
           <div class='logo text-center'>
             <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
-              <b:widget id='Header1' locked='true' title='te (cabecera)' type='Header' version='1'>
+              <b:widget id='Header1' locked='true' title='loco21 (cabecera)' type='Header' version='1'>
                 <b:widget-settings>
                   <b:widget-setting name='displayUrl'>http://4.bp.blogspot.com/-yrJUs9Mu748/Wy7JCf32TEI/AAAAAAAAAoM/ZaYDakOu6qQT7yTG8AEnJHgMphpiKbHeQCK4BGAYYCw/s1600/plantilla2.jpg</b:widget-setting>
                   <b:widget-setting name='displayHeight'>250</b:widget-setting>
