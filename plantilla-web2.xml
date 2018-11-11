@@ -5016,20 +5016,50 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
             <!-- SIDEBAR -->
             <div class='col-md-3'>
               <b:section class='sidebar' id='sidebar'>
-                <b:widget id='HTML1' locked='false' title='About Me' type='HTML'>
+                <b:widget id='Translate1' locked='false' title='Translate' type='Translate'>
                   <b:widget-settings>
-                    <b:widget-setting name='content'/>
+                    <b:widget-setting name='displayMode'>VERTICAL</b:widget-setting>
                   </b:widget-settings>
                   <b:includable id='main'>
-  <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
     <h2 class='title'><data:title/></h2>
   </b:if>
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-
+  <div id='google_translate_element'/>
+  <script>
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: &#39;<data:pageLanguage/>&#39;,
+        autoDisplay: &#39;true&#39;,
+        layout: google.translate.TranslateElement.InlineLayout.<data:layout/>
+      }, &#39;google_translate_element&#39;);
+    }
+  </script>
+  <script src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'/>
   <b:include name='quickedit'/>
+</b:includable>
+                </b:widget>
+                <b:widget id='Stats1' locked='false' title='Páginas vistas en total' type='Stats'>
+                  <b:widget-settings>
+                    <b:widget-setting name='showGraphicalCounter'>true</b:widget-setting>
+                    <b:widget-setting name='showAnimatedCounter'>true</b:widget-setting>
+                    <b:widget-setting name='showSparkline'>false</b:widget-setting>
+                    <b:widget-setting name='sparklineStyle'>BLACK_TRANSPARENT</b:widget-setting>
+                    <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
+                  </b:widget-settings>
+                  <b:includable id='main'>
+  <b:if cond='data:title != &quot;&quot;'><h2><data:title/></h2></b:if>
+  <div class='widget-content'>
+    <!-- Content is going to be visible when data will be fetched from server. -->
+    <div expr:id='data:widget.instanceId + &quot;_content&quot;' style='display: none;'>
+      <!-- Counter and image will be injected later via AJAX call. -->
+      <b:if cond='data:showSparkline'>
+        <img alt='Sparkline' expr:id='data:widget.instanceId + &quot;_sparkline&quot;' height='30' width='75'/>
+      </b:if>
+      <span expr:class='&quot;counter-wrapper &quot; + (data:showGraphicalCounter ? &quot;graph-counter-wrapper&quot; : &quot;text-counter-wrapper&quot;)' expr:id='data:widget.instanceId + &quot;_totalCount&quot;'>
+      </span>
+      <b:include name='quickedit'/>
+    </div>
+  </div>
 </b:includable>
                 </b:widget>
                 <b:widget id='HTML3' locked='false' title='' type='HTML'>
