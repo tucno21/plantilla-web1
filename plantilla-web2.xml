@@ -586,7 +586,7 @@ Version:  Free Version
         -ms-user-select: none;
       }
       .header .logo {
-        padding: 35px 20px;
+        padding: 4px 4px;
       }
       .header .logo a {
         display: inline-block !important;
