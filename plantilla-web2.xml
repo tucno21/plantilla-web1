@@ -833,7 +833,7 @@ div#topnav h2 {
       }
       .navlist li.current-menu-parent &gt; a,
       .navlist li.current-menu-item &gt; a, .navlist li:hover &gt; a {
-        color: #e15d5d;
+        color: #ffffff;
       }
       .navlist li:hover &gt; .sub-menu {
         opacity: 1;
