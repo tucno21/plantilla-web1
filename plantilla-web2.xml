@@ -881,7 +881,7 @@ div#topnav h2 {
       }
       .navlist li.megamenu .post h2 {
         font-size: 12px;
-        color: #484848;
+        color: #ffd700;
         text-transform: uppercase;
         margin-top: 9px;
         margin-bottom: 5px;
