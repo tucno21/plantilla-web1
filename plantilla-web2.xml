@@ -4004,17 +4004,6 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 
 <li><a href='http://catuva21.blogspot.com/2017/12/root.html'>Root</a></li>
 
-              <li class='megamenu col-5'><a href='#'>Mega menu</a>
-                <script class='java' type='text/javascript'>//<![CDATA[
-                  var numposts = 5;
-                  var outerclass = "sub-menu";
-                  var starttag = "<li>";
-                  var endtag = "</li>";
-                  var intag = "div";
-                  //]]>
-                </script>
-                <script class='java' src='/feeds/posts/default?alt=json-in-script&amp;callback=labelthumbs' type='text/javascript'/>
-              </li>
             </ul>
 
           </div>
