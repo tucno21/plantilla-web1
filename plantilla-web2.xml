@@ -958,7 +958,7 @@ div#topnav h2 {
         min-height: 100%;
         top: 0;
         left: 0;
-        background-color: #f7f9f9;
+        background-color: #ffd700;
         -webkit-transform: translateX(-100%);
         -moz-transform: translateX(-100%);
         -ms-transform: translateX(-100%);
