@@ -753,7 +753,7 @@ div#topnav h2 {
         color: #aaa;
       }
       .pi-navigation1 .share-box a:hover {
-        color: #e15d5d;
+        color: #ffd700;
       }
       .navlist {
         position: relative;
