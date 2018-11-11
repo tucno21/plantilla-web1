@@ -1400,7 +1400,7 @@ div#topnav h2 {
       }
 
    
-      /* Main content
+      /* Contenido principal
       ----------------------------------------------- */
       .blog-content {
         background-color: #f6f6f6;
