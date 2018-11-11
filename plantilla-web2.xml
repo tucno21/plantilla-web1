@@ -705,7 +705,7 @@ div#topnav h2 {
         height: 20px;
         text-align: center;
         cursor: pointer;
-        color: #aaa;
+        color: #ffffff;
         right: 15px;
         top: 50%;
         -webkit-transform: translateY(-50%);
