@@ -729,7 +729,7 @@ div#topnav h2 {
         content: &#39;&#39;;
         display: block;
         position: absolute;
-        border-left: 1px solid #999;
+        border-left: 1px solid #ffbf00;
         height: 16px;
         width: 0;
         margin: auto;
