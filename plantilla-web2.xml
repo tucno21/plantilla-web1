@@ -3163,12 +3163,12 @@ opacity: 1;
       }
 	  
 	    .blog-content .post .post-meta .post-comment .fa {
-  color: #fff;
+  color: #000;
   border-bottom: 2px solid #fff;
       }
 	  
 	   .blog-content .post .post-meta .post-comment a {
-  color: #fff;
+  color: #000;
       }
 	  
 	  .blog-content .post .post-meta .post-date {
@@ -3177,12 +3177,12 @@ opacity: 1;
 }
 
 .blog-content .post .post-meta .post-date .year {
-color: #fff;
+color: #000;
 border-bottom: 2px solid #fff;
 }
 
 .blog-content .post .post-meta .post-date .month, .blog-content .post .post-meta .post-date .day {
-color: #fff;
+color: #000;
 }
 
 
