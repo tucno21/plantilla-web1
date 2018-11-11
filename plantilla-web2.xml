@@ -3679,7 +3679,11 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
            
 
             <b:section class='topnav' id='topnav' maxwidgets='1'>
-              <b:widget id='PageList1' locked='false' title='Pages' type='PageList'>
+              <b:widget id='PageList1' locked='false' title='Pages' type='PageList' version='1'>
+                <b:widget-settings>
+                  <b:widget-setting name='pageListJson'><![CDATA[{'home': {'href': 'https://lococo21.blogspot.com/', 'title': 'Página principal', 'position': 0}}]]></b:widget-setting>
+                  <b:widget-setting name='homeTitle'>Página principal</b:widget-setting>
+                </b:widget-settings>
                 <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'><h2><data:title/></h2></b:if>
   <div class='widget-content navlist'>
@@ -3743,7 +3747,16 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
           <!-- LOGO -->
           <div class='logo text-center'>
             <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
-              <b:widget id='Header1' locked='true' title='New Xpose (Header)' type='Header'>
+              <b:widget id='Header1' locked='true' title='te (cabecera)' type='Header' version='1'>
+                <b:widget-settings>
+                  <b:widget-setting name='displayUrl'>http://4.bp.blogspot.com/-yrJUs9Mu748/Wy7JCf32TEI/AAAAAAAAAoM/ZaYDakOu6qQT7yTG8AEnJHgMphpiKbHeQCK4BGAYYCw/s1600/plantilla2.jpg</b:widget-setting>
+                  <b:widget-setting name='displayHeight'>250</b:widget-setting>
+                  <b:widget-setting name='sectionWidth'>900</b:widget-setting>
+                  <b:widget-setting name='useImage'>true</b:widget-setting>
+                  <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
+                  <b:widget-setting name='imagePlacement'>REPLACE</b:widget-setting>
+                  <b:widget-setting name='displayWidth'>900</b:widget-setting>
+                </b:widget-settings>
                 <b:includable id='main'>
                   <b:if cond='data:useImage'>
                     <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
@@ -3890,7 +3903,30 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
             <div class='col-md-9'>
               <div class='content'>
                 <b:section class='main' id='main' maxwidgets='1'>
-                  <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'>
+                  <b:widget id='Blog1' locked='true' title='Entradas del blog' type='Blog' version='1'>
+                    <b:widget-settings>
+                      <b:widget-setting name='showDateHeader'>true</b:widget-setting>
+                      <b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
+                      <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+                      <b:widget-setting name='authorLabel'>By</b:widget-setting>
+                      <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+                      <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
+                      <b:widget-setting name='showAuthor'>true</b:widget-setting>
+                      <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
+                      <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+                      <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+                      <b:widget-setting name='timestampLabel'>on</b:widget-setting>
+                      <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+                      <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+                      <b:widget-setting name='showLabels'>true</b:widget-setting>
+                      <b:widget-setting name='showLocation'>false</b:widget-setting>
+                      <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+                      <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+                      <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+                      <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+                      <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+                      <b:widget-setting name='showReactions'>false</b:widget-setting>
+                    </b:widget-settings>
                     <b:includable id='main' var='top'>
                       <b:if cond='!data:mobile'>
 
@@ -4842,6 +4878,9 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
             <div class='col-md-3'>
               <b:section class='sidebar' id='sidebar'>
                 <b:widget id='HTML1' locked='false' title='About Me' type='HTML'>
+                  <b:widget-settings>
+                    <b:widget-setting name='content'/>
+                  </b:widget-settings>
                   <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -4854,7 +4893,13 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
   <b:include name='quickedit'/>
 </b:includable>
                 </b:widget>
-                <b:widget id='PopularPosts1' locked='false' title='Popular Posts' type='PopularPosts'>
+                <b:widget id='PopularPosts1' locked='false' title='Popular Posts' type='PopularPosts' version='1'>
+                  <b:widget-settings>
+                    <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
+                    <b:widget-setting name='showThumbnails'>true</b:widget-setting>
+                    <b:widget-setting name='showSnippets'>true</b:widget-setting>
+                    <b:widget-setting name='timeRange'>LAST_YEAR</b:widget-setting>
+                  </b:widget-settings>
                   <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'><h2><data:title/></h2></b:if>
   <div class='widget-content popular-posts'>
@@ -4895,6 +4940,9 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
 </b:includable>
                 </b:widget>
                 <b:widget id='HTML2' locked='false' title='ADs' type='HTML'>
+                  <b:widget-settings>
+                    <b:widget-setting name='content'/>
+                  </b:widget-settings>
                   <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -4908,6 +4956,13 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
 </b:includable>
                 </b:widget>
                 <b:widget id='Label3' locked='false' title='Labels Cloud' type='Label'>
+                  <b:widget-settings>
+                    <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
+                    <b:widget-setting name='display'>LIST</b:widget-setting>
+                    <b:widget-setting name='selectedLabelsList'/>
+                    <b:widget-setting name='showType'>ALL</b:widget-setting>
+                    <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
+                  </b:widget-settings>
                   <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'>
     <h2><data:title/></h2>
@@ -4947,6 +5002,13 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
 </b:includable>
                 </b:widget>
                 <b:widget id='Label2' locked='false' title='Labels List Numbered' type='Label'>
+                  <b:widget-settings>
+                    <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
+                    <b:widget-setting name='display'>LIST</b:widget-setting>
+                    <b:widget-setting name='selectedLabelsList'/>
+                    <b:widget-setting name='showType'>ALL</b:widget-setting>
+                    <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
+                  </b:widget-settings>
                   <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'>
     <h2><data:title/></h2>
@@ -4986,6 +5048,9 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
 </b:includable>
                 </b:widget>
                 <b:widget id='HTML4' locked='false' title='Video of the day' type='HTML'>
+                  <b:widget-settings>
+                    <b:widget-setting name='content'/>
+                  </b:widget-settings>
                   <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -5030,93 +5095,13 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
 
              <!-- WIDGET NEWSLETTER -->
             <div class='col-md-4'>
-              <b:section class='footer-section' id='footer1'>
-                <b:widget id='PopularPosts2' locked='false' title='Popular Posts' type='PopularPosts'>
-                  <b:includable id='main'>
-  <b:if cond='data:title != &quot;&quot;'><h2><data:title/></h2></b:if>
-  <div class='widget-content popular-posts'>
-    <ul>
-      <b:loop values='data:posts' var='post'>
-      <li>
-        <b:if cond='!data:showThumbnails'>
-          <b:if cond='!data:showSnippets'>
-            <!-- (1) No snippet/thumbnail -->
-            <a expr:href='data:post.href'><data:post.title/></a>
-          <b:else/>
-            <!-- (2) Show only snippets -->
-            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
-            <div class='item-snippet'><data:post.snippet/></div>
-          </b:if>
-        <b:else/>
-          <!-- (3) Show only thumbnails or (4) Snippets and thumbnails. -->
-          <div expr:class='data:showSnippets ? &quot;item-content&quot; : &quot;item-thumbnail-only&quot;'>
-            <b:if cond='data:post.thumbnail'>
-              <div class='item-thumbnail'>
-                <a expr:href='data:post.href' target='_blank'>
-                  <img alt='' border='0' expr:height='data:thumbnailSize' expr:src='data:post.thumbnail' expr:width='data:thumbnailSize'/>
-                </a>
-              </div>
-            </b:if>
-            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
-            <b:if cond='data:showSnippets'>
-              <div class='item-snippet'><data:post.snippet/></div>
-            </b:if>
-          </div>
-          <div style='clear: both;'/>
-        </b:if>
-      </li>
-      </b:loop>
-    </ul>
-    <b:include name='quickedit'/>
-  </div>
-</b:includable>
-                </b:widget>
-              </b:section>
+              <b:section class='footer-section' id='footer1'/>
             </div>
             <!-- END / WIDGET NEWSLETTER -->
 
             <!-- WIDGET META -->
             <div class='col-md-4'>
               <b:section class='footer-section' id='footer2'>
-                <b:widget id='Label5' locked='false' title='Labels' type='Label'>
-                  <b:includable id='main'>
-  <b:if cond='data:title != &quot;&quot;'>
-    <h2><data:title/></h2>
-  </b:if>
-  <div expr:class='&quot;widget-content &quot; + data:display + &quot;-label-widget-content&quot;'>
-    <b:if cond='data:display == &quot;list&quot;'>
-      <ul>
-        <b:loop values='data:labels' var='label'>
-          <li>
-            <b:if cond='data:blog.url == data:label.url'>
-              <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
-            <b:else/>
-              <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
-            </b:if>
-            <b:if cond='data:showFreqNumbers'>
-              <span dir='ltr'>(<data:label.count/>)</span>
-            </b:if>
-          </li>
-        </b:loop>
-      </ul>
-    <b:else/>
-      <b:loop values='data:labels' var='label'>
-        <span expr:class='&quot;label-size label-size-&quot; + data:label.cssSize'>
-          <b:if cond='data:blog.url == data:label.url'>
-            <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
-          <b:else/>
-            <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
-          </b:if>
-          <b:if cond='data:showFreqNumbers'>
-            <span class='label-count' dir='ltr'>(<data:label.count/>)</span>
-          </b:if>
-        </span>
-      </b:loop>
-    </b:if>
-    <b:include name='quickedit'/>
-  </div>
-</b:includable>
-                </b:widget>
                 <b:widget id='HTML5' locked='false' title='' type='HTML'>
                   <b:includable id='main'>
   <!-- only display title if it's non-empty -->
