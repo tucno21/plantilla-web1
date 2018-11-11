@@ -1023,7 +1023,7 @@ div#topnav h2 {
         background-color: #eff1f1;
         background-color: rgba(0, 0, 0, 0.02);
         border-left: 1px solid #f2f2f2;
-        color: #383838;
+        color: #ffffff;
         -webkit-transform: translateY(-43px);
         -moz-transform: translateY(-43px);
         -ms-transform: translateY(-43px);
