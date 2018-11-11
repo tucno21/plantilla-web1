@@ -447,7 +447,7 @@ h3.cabeceras-fp{border-bottom-color:#0e1869;}
 .main-navigationnbt li a{color:#EAEAEA;}
 .main-navigationnbt li ul li a{color:#444;}
 .main-navigationnbt li ul li a{background-color:#222222;color:#eaeaea;border-bottom-color:#444444;}
-.main-navigationnbt li ul li a:hover{background-color:#222222;color:#0e1869;}
+.main-navigationnbt li ul li a:hover{background-color:#222222;color:#eff704;}
 }
 
 ]]></b:skin>
