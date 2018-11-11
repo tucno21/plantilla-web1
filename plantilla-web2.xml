@@ -693,7 +693,7 @@ div#topnav h2 {
 .pi-navigation .navlist li a {
   display: inline-block;
   font-family: &quot;Montserrat&quot;, sans-serif;
-  font-size: 10px;
+  font-size: 12px;
   color: #000;
   text-transform: uppercase;
   line-height: 45px;
