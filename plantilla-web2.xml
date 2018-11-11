@@ -3832,22 +3832,178 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
             <div class='close-menu'/>
             <ul class='navlist'>
               <li><a href='/'>Home</a></li>
-              <li><a href='/p/about.html'>About us</a></li>
-              <li><a href='#'>Drop Down</a>
-                <ul class='sub-menu'>
-                  <li><a href='/search/label/Shooter'>Minimal</a></li>
-                  <li><a href='#'>Sub Menu with Subs</a>
-                    <ul class='sub-menu'>
-                      <li><a href='#'>Feminist</a></li>
-                      <li><a href='#'>Persona</a></li>
-                      <li><a href='#'>Expose</a></li>
-                    </ul>
-                  </li>
-                  <li><a href='#'>Powergame</a></li>
-                  <li><a href='#'>Fashion</a></li>
-                </ul>
-              </li>
-              <li><a href='#'>Restaurant</a></li>
+<li class='menu-item-has-children'><a href='#'>MAS ...</a>
+<ul class='sub-menu'>
+<li><a href='http://catuva21.blogspot.com/2017/12/camara-profesional.html'>Camara Pro</a></li>
+<li class='menu-item-has-children'><a href='#'>Bateria</a>
+<ul class='sub-menu'>
+       <li><a href='#'>Calibrar</a></li>
+       <li><a href='http://catuva21.blogspot.com/2018/01/ahorrar-bateria.html'>Ahorrar Stock</a></li>
+       <li><a href='#'>Ahorra Root</a></li>
+</ul>
+</li>
+<li><a href='http://catuva21.blogspot.com/2018/01/dolby-viper.html'>Dolby-Viper</a></li>
+
+</ul>
+</li>
+
+<li class='menu-item-has-children'><a href='#'>P9LITE 2016</a>
+<ul class='sub-menu'>
+<li class='menu-item-has-children'><a href='#'>EMUI5 STOCK</a>
+<ul class='sub-menu'>
+   <li><a href='http://catuva21.blogspot.com/2018/04/actualizacionotap9lite.html'>Actualizacion OTA</a></li>
+   <li><a href='http://catuva21.blogspot.com/2017/12/regresar-stock.html'>Regresar Stock</a></li>
+   <li><a href='http://catuva21.blogspot.com/2017/12/rom-stock-nougat-flasheables.html'>Flasheable</a></li>
+</ul>
+</li>
+
+<li><a href='http://catuva21.blogspot.com/2017/12/rom-midgard-32.html'>ROM MIDGARD</a></li>
+<li><a href='http://catuva21.blogspot.com/2017/12/rom-morfuz-v71.html'>ROM MORFUZ</a></li>
+<li><a href='http://catuva21.blogspot.com/2017/12/rom-phenom.html'>ROM PHENOM</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/01/rom-xmorz.html'>XMorz</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/01/rom-siriuz.html'>SiriuZ</a></li>
+<li><a href='http://catuva21.blogspot.com/2017/12/mod-morfuz.html'>MOD</a></li>
+<li><a href='http://catuva21.blogspot.com/2017/12/kernel.html'>KERNEL</a></li>
+<li><a href='http://catuva21.blogspot.com/2017/12/recovery-twrp-para-emui-5.html'>RECOVERY TWRP</a></li>
+<li><a href='http://catuva21.blogspot.com/2017/12/recovery-twrp-y-stock.html'>RECOVERY STOCK</a></li>
+</ul>
+</li>
+
+<li class='menu-item-has-children'><a href='#'>P8/P9 LITE 2017</a>
+<ul class='sub-menu'>
+<li class='menu-item-has-children'><a href='#'>OREO-EMUI8</a>
+<ul class='sub-menu'>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/otaoreo.html'>Actualizacion OTA</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/romstock.html'>Rom Stock</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/midgardoreo2017.html'>ROM MidgarD</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/morfuzoreo2017.html'>ROM MorfuZ</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/romsiriuz2017.html'>ROM SiriuZ</a></li>
+	<li><a href='http://www.teamphenom.ga/2018/05/kerneloreop10.html'>kernel</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/recoverystockoreo2017.html'>recovery stock</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/twrporeo2017.html'>recovery twrp</a></li>
+</ul>
+</li>
+
+<li class='menu-item-has-children'><a href='#'>NOUGAT-EMUI5</a>
+<ul class='sub-menu'>
+	<li><a href='http://catuva21.blogspot.com/2018/04/actualizacionotap8lite2017.html'>Actualizacion OTA</a></li>
+	<li><a href='http://catuva21.blogspot.com/2017/12/rom-stock-para-p8p9-lite-2017.html'>Rom Stock</a></li>
+	<li><a href='http://catuva21.blogspot.com/2017/12/rom-midgard-para-veriones-2017.html'>MidgarD</a></li>
+	<li><a href='http://catuva21.blogspot.com/2017/12/rom-morfuz-para-versiones-2017.html'>MorfuZ</a></li>
+	<li><a href='http://catuva21.blogspot.com/2017/12/kernel-p8p9-lite-2017.html'>kernel</a></li>
+	<li><a href='http://catuva21.blogspot.com/2018/04/modp82017.html'>Mod</a></li>
+	<li><a href='http://catuva21.blogspot.com/2017/12/recovery-stock-p8p9-lite-2017.html'>recovery stock</a></li>
+	<li><a href='http://catuva21.blogspot.com/2017/12/recovery-twrp-p8p9-lite-2017.html'>recovery twrp</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+
+<li class='menu-item-has-children'><a href='#'>MATE 10 LITE</a>
+<ul class='sub-menu'>
+<li class='menu-item-has-children'><a href='#'>OREO-EMUI8</a>
+<ul class='sub-menu'>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/otaoreomate.html'>Actualizacion OTA</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/romstockoreomate.html'>Rom Stock</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/midgardoreomate.html'>ROM MidgarD</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/morfuzmateoreo.html'>ROM MorfuZ</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/siriuzoreomate.html'>ROM SiriuZ</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreomate.html'>kernel</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/recoverystockoreomate.html'>recovery stock</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/twrporeomate.html'>recovery twrp</a></li>
+</ul>
+</li>
+
+<li class='menu-item-has-children'><a href='#'>NOUGAT-EMUI5.1</a>
+<ul class='sub-menu'>
+	<li><a href='http://catuva21.blogspot.com/2018/04/actualizacionotamate10lite.html'>Actualizacion OTA</a></li>
+	<li><a href='http://catuva21.blogspot.com/2018/04/stockmate10.html'>Rom Stock</a></li>
+	<li><a href='http://catuva21.blogspot.com/2018/04/midgardmate10.html'>ROM MidgarD</a></li>
+	<li><a href='http://catuva21.blogspot.com/2018/04/morfuzmate10.html'>ROM MorfuZ</a></li>
+	<li><a href='http://catuva21.blogspot.com/2018/04/kermelmate10.html'>kernel</a></li>
+	<li><a href='http://catuva21.blogspot.com/2018/04/modmate10.html'>Mod</a></li>
+	<li><a href='http://catuva21.blogspot.com/2018/04/recoverystockmate10.html'>recovery stock</a></li>
+	<li><a href='http://catuva21.blogspot.com/2018/04/recoverytwrpmate10.html'>recovery twrp</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+
+
+<li class='menu-item-has-children'><a href='#'>P10 lite</a>
+<ul class='sub-menu'>
+<li class='menu-item-has-children'><a href='#'>OREO-EMUI8</a>
+<ul class='sub-menu'>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/otaoreop10.html'>Actualizacion OTA</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/romstockoreop10.html'>Rom Stock</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/midgardoreop10.html'>ROM MidgarD</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/morfuzoreop10.html'>ROM MorfuZ</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/siriuzoreop10.html'>ROM SiriuZ</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreop10.html'>kernel</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/recoverystockoreop10.html'>recovery stock</a></li>
+	<li><a href='http://catuva21.blogspot.pe/2018/05/twrporeop10.html'>recovery twrp</a></li>
+</ul>
+</li>
+
+<li class='menu-item-has-children'><a href='#'>NOUGAT-EMUI5.1</a>
+<ul class='sub-menu'>
+	<li><a href='http://catuva21.blogspot.com/2018/04/actualizacionotao10lite.html'>Actualizacion OTA</a></li>
+	<li><a href='#'>Rom Stock</a></li>
+	<li><a href='#'>MidgarD</a></li>
+	<li><a href='#'>MorfuZ</a></li>
+	<li><a href='##'>Mod</a></li>
+	<li><a href='#'>recovery stock</a></li>
+	<li><a href='#'>recovery twrp</a></li>
+	<li><a href='#'>kernel</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+
+<li class='menu-item-has-children'><a href='#'>P20 LITE</a>
+<ul class='sub-menu'>
+<li><a href='http://catuva21.blogspot.com/2018/06/otap20.html'>Actualizacion OTA</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/06/morfuzp20.html'>ROM MORFUZ</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/06/siriuzp20.html'>ROM SIRIUZ</a></li>
+<li><a href='http://catuva21.blogspot.com/2017/12/inicio.html'>ROM MIDGARD</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/06/kernelp20.html'>kernel</a></li>
+<li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/06/twrpp20.html'>RECOVERY TWRP</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/06/recoveryp20.html'>RECOVERY STOCK</a></li>
+</ul>
+</li>
+
+<li class='menu-item-has-children'><a href='#'>HONOR 7X</a>
+<ul class='sub-menu'>
+<li><a href='http://catuva21.blogspot.com/2018/06/otap20.html'>Actualizacion OTA</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/08/siriuz7x.html'>ROM SIRIUZ</a></li>
+<li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreop10.html'>kernel</a></li>
+<li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/08/twr-hi6250.html'>RECOVERY TWRP</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/08/recoverystock7x.html'>RECOVERY STOCK</a></li>
+</ul>
+</li>
+
+<li class='menu-item-has-children'><a href='#'>HONOR 9 LITE</a>
+<ul class='sub-menu'>
+<li><a href='http://catuva21.blogspot.com/2018/06/otap20.html'>Actualizacion OTA</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/08/morfuzhonor9lite.html'>ROM MORFUZ</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/08/siriuz-h9l.html'>ROM SIRIUZ</a></li>
+<li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreop10.html'>kernel</a></li>
+<li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/08/twr-hi6250.html'>RECOVERY TWRP</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/08/recoery-stock-h9l.html'>RECOVERY STOCK</a></li>
+</ul>
+</li>
+
+<li><a href='http://catuva21.blogspot.com/2017/12/root.html'>Root</a></li>
+
               <li class='megamenu col-5'><a href='#'>Mega menu</a>
                 <script class='java' type='text/javascript'>//<![CDATA[
                   var numposts = 5;
@@ -3859,7 +4015,6 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                 </script>
                 <script class='java' src='/feeds/posts/default?alt=json-in-script&amp;callback=labelthumbs' type='text/javascript'/>
               </li>
-              <li><a href='#'>Download</a></li>
             </ul>
 
           </div>
