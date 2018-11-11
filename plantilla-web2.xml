@@ -4635,21 +4635,7 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/featured?max-r
                         <div class='traingle'/>
                         <div class='postfooter clearfix'>
 
-                            <div class='socialpost'>
 
-                                <div class='icons clearfix'>
-                                    <a expr:href='&quot;http://twitter.com/share?url=&quot; + data:post.url' target='_blank'><i class='fa fa-twitter'/>
-                                        <div class='texts'>Twitter</div>
-                                    </a>
-                                    <a expr:href='&quot;http://www.facebook.com/sharer.php?u=&quot; + data:post.url' target='_blank'><i class='fa fa-facebook'/>
-                                        <div class='texts'>Facebook</div>
-                                    </a>
-                                    <a expr:href='&quot;https://plus.google.com/share?url=&quot; + data:post.url' target='_blank'><i class='fa fa-google-plus'/>
-                                        <div class='texts'>Google+</div>
-                                    </a>
-                                    <a expr:href='&quot;http://pinterest.com/pin/create/button/?source_url=&quot; + data:post.url' onclick='javascript:window.open(this.href, &apos;&apos;, &apos;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600&apos;);return false;' target='_blank'><i class='fa fa-pinterest'/><div class='texts'>Pinterest</div></a>
-                                </div>
-                            </div>
                             <a expr:href='data:post.url'>
                                 <div class='read'>
                                     read </div>
