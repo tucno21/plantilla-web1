@@ -1091,7 +1091,7 @@ div#topnav h2 {
       }
 
 
-   /* Featured Slider
+   /* Deslizador Destacado
       ----------------------------------------------- */
       .owl-carousel .owl-controls {
         margin-top: 0;
