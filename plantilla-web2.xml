@@ -1403,7 +1403,7 @@ div#topnav h2 {
       /* Contenido principal
       ----------------------------------------------- */
       .blog-content {
-        background-color: #f6f6f6;
+        background-color: #d8d3c6;
        padding-bottom: 50px;
        }
       .blog-content .content {
