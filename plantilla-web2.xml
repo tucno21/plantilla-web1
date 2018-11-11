@@ -819,7 +819,7 @@ div#topnav h2 {
       .navlist li .sub-menu li a {
         display: block;
         padding: 0 15px;
-        border-bottom: 1px solid #f3f3f3;
+        border-bottom: 1px solid #e40078;
         line-height: 40px;
   text-align: left;
       }
