@@ -669,8 +669,6 @@ function createSummaryAndThumb(pID){
 <li class='menu-item-has-children'><a href='#'>OREO-EMUI8</a>
 <ul class='sub-menu'>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/otaoreo.html'>Actualizacion OTA</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/romstock.html'>Rom Stock</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/midgardoreo2017.html'>ROM MidgarD</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/morfuzoreo2017.html'>ROM MorfuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/romsiriuz2017.html'>ROM SiriuZ</a></li>
 	<li><a href='http://www.teamphenom.ga/2018/05/kerneloreop10.html'>kernel</a></li>
@@ -701,8 +699,6 @@ function createSummaryAndThumb(pID){
 <li class='menu-item-has-children'><a href='#'>OREO-EMUI8</a>
 <ul class='sub-menu'>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/otaoreomate.html'>Actualizacion OTA</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/romstockoreomate.html'>Rom Stock</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/midgardoreomate.html'>ROM MidgarD</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/morfuzmateoreo.html'>ROM MorfuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/siriuzoreomate.html'>ROM SiriuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreomate.html'>kernel</a></li>
@@ -734,8 +730,6 @@ function createSummaryAndThumb(pID){
 <li class='menu-item-has-children'><a href='#'>OREO-EMUI8</a>
 <ul class='sub-menu'>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/otaoreop10.html'>Actualizacion OTA</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/romstockoreop10.html'>Rom Stock</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/midgardoreop10.html'>ROM MidgarD</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/morfuzoreop10.html'>ROM MorfuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/siriuzoreop10.html'>ROM SiriuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreop10.html'>kernel</a></li>
@@ -766,7 +760,6 @@ function createSummaryAndThumb(pID){
 <li><a href='http://catuva21.blogspot.com/2018/06/otap20.html'>Actualizacion OTA</a></li>
 <li><a href='http://catuva21.blogspot.com/2018/06/morfuzp20.html'>ROM MORFUZ</a></li>
 <li><a href='http://catuva21.blogspot.com/2018/06/siriuzp20.html'>ROM SIRIUZ</a></li>
-<li><a href='http://catuva21.blogspot.com/2017/12/inicio.html'>ROM MIDGARD</a></li>
 <li><a href='http://catuva21.blogspot.com/2018/06/kernelp20.html'>kernel</a></li>
 <li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
 <li><a href='http://catuva21.blogspot.com/2018/06/twrpp20.html'>RECOVERY TWRP</a></li>
@@ -777,6 +770,7 @@ function createSummaryAndThumb(pID){
 <li class='menu-item-has-children'><a href='#'>HONOR 7X</a>
 <ul class='sub-menu'>
 <li><a href='http://catuva21.blogspot.com/2018/06/otap20.html'>Actualizacion OTA</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/11/morfuz7x.html'>ROM MORFUZ</a></li>
 <li><a href='http://catuva21.blogspot.com/2018/08/siriuz7x.html'>ROM SIRIUZ</a></li>
 <li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreop10.html'>kernel</a></li>
 <li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
@@ -872,8 +866,6 @@ function createSummaryAndThumb(pID){
 <li class='menu-item-has-children'><a href='#'>OREO-EMUI8</a>
 <ul class='sub-menu'>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/otaoreo.html'>Actualizacion OTA</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/romstock.html'>Rom Stock</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/midgardoreo2017.html'>ROM MidgarD</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/morfuzoreo2017.html'>ROM MorfuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/romsiriuz2017.html'>ROM SiriuZ</a></li>
 	<li><a href='http://www.teamphenom.ga/2018/05/kerneloreop10.html'>kernel</a></li>
@@ -904,8 +896,6 @@ function createSummaryAndThumb(pID){
 <li class='menu-item-has-children'><a href='#'>OREO-EMUI8</a>
 <ul class='sub-menu'>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/otaoreomate.html'>Actualizacion OTA</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/romstockoreomate.html'>Rom Stock</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/midgardoreomate.html'>ROM MidgarD</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/morfuzmateoreo.html'>ROM MorfuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/siriuzoreomate.html'>ROM SiriuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreomate.html'>kernel</a></li>
@@ -937,8 +927,6 @@ function createSummaryAndThumb(pID){
 <li class='menu-item-has-children'><a href='#'>OREO-EMUI8</a>
 <ul class='sub-menu'>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/otaoreop10.html'>Actualizacion OTA</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/romstockoreop10.html'>Rom Stock</a></li>
-	<li><a href='http://catuva21.blogspot.pe/2018/05/midgardoreop10.html'>ROM MidgarD</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/morfuzoreop10.html'>ROM MorfuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/siriuzoreop10.html'>ROM SiriuZ</a></li>
 	<li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreop10.html'>kernel</a></li>
@@ -969,7 +957,6 @@ function createSummaryAndThumb(pID){
 <li><a href='http://catuva21.blogspot.com/2018/06/otap20.html'>Actualizacion OTA</a></li>
 <li><a href='http://catuva21.blogspot.com/2018/06/morfuzp20.html'>ROM MORFUZ</a></li>
 <li><a href='http://catuva21.blogspot.com/2018/06/siriuzp20.html'>ROM SIRIUZ</a></li>
-<li><a href='http://catuva21.blogspot.com/2017/12/inicio.html'>ROM MIDGARD</a></li>
 <li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreop10.html'>kernel</a></li>
 <li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
 <li><a href='http://catuva21.blogspot.com/2018/06/twrpp20.html'>RECOVERY TWRP</a></li>
@@ -980,6 +967,7 @@ function createSummaryAndThumb(pID){
 <li class='menu-item-has-children'><a href='#'>HONOR 7X</a>
 <ul class='sub-menu'>
 <li><a href='http://catuva21.blogspot.com/2018/06/otap20.html'>Actualizacion OTA</a></li>
+<li><a href='http://catuva21.blogspot.com/2018/11/morfuz7x.html'>ROM MORFUZ</a></li>
 <li><a href='http://catuva21.blogspot.com/2018/08/siriuz7x.html'>ROM SIRIUZ</a></li>
 <li><a href='http://catuva21.blogspot.pe/2018/05/kerneloreop10.html'>kernel</a></li>
 <li><a href='http://catuva21.blogspot.pe/2018/05/modoreop10.html'>Mod</a></li>
